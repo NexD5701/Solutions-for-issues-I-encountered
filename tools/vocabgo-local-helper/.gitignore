@@ -1,0 +1,12 @@
+.setup/
+Easy_Cidaren/
+__pycache__/
+*.pyc
+*.log
+*.log.*
+token.txt*
+*.pem
+*.cer
+*.key
+*.p12
+*.pfx
