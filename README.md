@@ -5,7 +5,6 @@ A collection of concise, reproducible notes about issues I have investigated and
 ## Solutions
 
 - [Windows Codex mobile remote-control pairing times out](solutions/windows-codex-mobile-pairing-timeout.md) — a Windows Microsoft Store (MSIX) case where setting proxy environment variables for the Codex process restored mobile pairing.
-- [Windows Vocabgo local setup and credential/network recovery improvements](solutions/windows-vocabgo-local-helper.md) — an explicitly attributed adaptation of ularch/Easy_Cidaren, with a reviewable patch, isolated setup, and offline checks. Real account/task compatibility remains unverified.
 
 ## How to use these notes
 
